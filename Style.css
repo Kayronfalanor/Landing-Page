@@ -1,0 +1,46 @@
+body {
+  font-size: 20px;
+  font-family: 'Cinzel', sans-serif;
+  font-weight: 800;
+  text-align: center
+}
+#Top {
+	font-family: 'Cinzel', sans-serif;
+	margin: auto;
+	font-weight: 900;
+}
+#banner{
+  text-align: center;
+  background-image: url("http://uctm.org/wp-content/uploads/2018/07/sand-768783_1280.jpg");
+  background-size: cover;
+  font-family: 'Times New Roman', sans-serif;
+  padding: 50px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#tittle{
+	font-size: 120px;
+}
+#page-container {
+  position: relative;
+  min-height: 82vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+#footer {
+  position: absolute;
+  text-align: left;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.margined {
+	width: 130px;
+    margin: auto;
+    background: white;
+    border-radius: 25px;
+}
